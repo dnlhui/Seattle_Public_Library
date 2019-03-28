@@ -10,7 +10,7 @@ Seattle Public Library releases comprehensive open data through the Seattle Data
 https://data.seattle.gov/Community/Library-Collection-Inventory/6vkj-f5xf
 Inventory of each book title in each branch location
 
-### Checkout Records by Titl
+### Checkout Records by Title
 https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6
 Checkouts by title 
 
